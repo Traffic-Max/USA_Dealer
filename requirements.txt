@@ -1,0 +1,5 @@
+httpx==0.24.1
+aiogram==2.25.1
+fastapi==0.95.2
+instagrapi==1.17.10
+psycopg2-binary==2.9.6
